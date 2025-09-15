@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=sddm-traveller-theme
+Description=sddm-traveller-theme
+Author=Ken
+Website=https://github.com/NguyenThanhDuyOfficial/SDDM-Traveller-Theme
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.3
+ConfigFile=theme.conf
+MainScript=Main.qml
+TranslationsDirectory=translations
+Theme-Id=sddm-traveller-theme
+Theme-API=2.0
+QtVersion=6
